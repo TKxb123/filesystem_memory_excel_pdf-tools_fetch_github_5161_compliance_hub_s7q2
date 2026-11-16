@@ -1,13 +1,14 @@
 # Compliance Publishing Index
 
-> Template scaffold — not a published cycle yet.
+## Current publication — FY26-Q3
 
-## Current publications
+- **Cycle:** FY26-Q3
+- **District:** District 2
+- **Yard:** South Yard
+- **Certified count:** 23
+- **Exception count:** 5
 
-- drafts/sample_register.csv
-- assets/notes/placeholder_notes.md
-- archive/legacy/index_2019.md
+## Deliverables
 
-## Cycle status
-
-No cycle has been published from this workspace.
+- [Certification register](deliverables/certification_register.csv)
+- [Summary](deliverables/summary.json)
