@@ -1,11 +1,14 @@
 # Compliance Publishing Index
 
-## Current cycle: FY26-Q3 — District 2 — South Yard
+## Current publishing note
 
-- Certified operators: 23
-- Certification exceptions: 5
+- Cycle: FY26-Q3
+- District: District 2
+- Yard: South Yard
+- Certified count: 23
+- Exception count: 5
 
 ## Published deliverables
 
-- [Certified register (CSV)](deliverables/certification_register.csv)
+- [Certification register (CSV)](deliverables/certification_register.csv)
 - [Cycle summary (JSON)](deliverables/summary.json)
