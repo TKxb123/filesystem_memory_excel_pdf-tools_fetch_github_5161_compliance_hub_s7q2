@@ -1,13 +1,11 @@
 # Compliance Publishing Index
 
-> Template scaffold — not a published cycle yet.
+## Current cycle: FY26-Q3 — District 2 — South Yard
 
-## Current publications
+- Certified operators: 23
+- Certification exceptions: 5
 
-- drafts/sample_register.csv
-- assets/notes/placeholder_notes.md
-- archive/legacy/index_2019.md
+## Published deliverables
 
-## Cycle status
-
-No cycle has been published from this workspace.
+- [Certified register (CSV)](deliverables/certification_register.csv)
+- [Cycle summary (JSON)](deliverables/summary.json)
